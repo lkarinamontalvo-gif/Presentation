@@ -5,10 +5,12 @@
 - M.A. in Linguistics
 
 I am an editor, proofreader, researcher, and writer. I specialize in the proper use of language to ensure clear, read-oriented communication. I have experience working with a wide range of texts, including academic, creative, and technical writing. 
+
 ## Languages
-- Español
-- English
-- Italiano
+|Spanish   |English   |Italian   |
+|--------- |--------- |--------- |
+| C2       |C1        |B2        |
+
   
 ## Tools
 - Microsoft Office Suite
